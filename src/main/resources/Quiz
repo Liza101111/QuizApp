@@ -1,0 +1,6 @@
+questionId,question,option1,option2,option3,option4
+1,"The root interface of Java collection framework hierarchy is –","A. Collection","B. Root","C. Collections","D. List/Set"
+2,"HashSet internally uses?","A. Set","B. HashMap","C. List","D. Collection"
+3,"Which of those is synchronized?","A. ArrayList","B. LinkedList","C. Vector","D. None of the above"
+4,"After resizing, size of ArrayList is increased by :","A. 200%","B. 50%","C. 100%","D. None of these"
+5,"Which of these is the most popularly used class as a key in a HashMap?","A. String","B. Integer","C. Double","D. All of the above"
